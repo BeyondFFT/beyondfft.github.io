@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 267 266" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0,236,236,0,133.903,15.9019)">
+        <g id="Слой-2" serif:id="Слой 2">
+            <circle cx="0.5" cy="0" r="0.5" style="fill:url(#_Linear1);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,95.7777,138.402)">
+        <g id="Слой-6" serif:id="Слой 6">
+            <path d="M0,4.125L14,42.875C14,42.875 15.75,46.5 17.625,46.5C19.5,46.5 47.375,17.5 47.375,17.5L78.375,-42.375L0.5,-5.875L0,4.125Z" style="fill:rgb(200,218,234);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,114.34,189.778)">
+        <g id="Слой-7" serif:id="Слой 7">
+            <path d="M0,-37.313L-2.688,-8.751C-2.688,-8.751 -3.813,0 4.937,-8.751C13.687,-17.501 22.062,-24.25 22.062,-24.25" style="fill:rgb(169,198,216);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,96.031,126.059)">
+        <g id="Слой-5" serif:id="Слой 5">
+            <path d="M0,17.851L-28.795,8.468C-28.795,8.468 -32.232,7.073 -31.128,3.906C-30.9,3.253 -30.441,2.698 -29.066,1.739C-22.684,-2.708 89.038,-42.865 89.038,-42.865C89.038,-42.865 92.193,-43.927 94.057,-43.221C94.909,-42.898 95.453,-42.533 95.911,-41.2C96.078,-40.715 96.174,-39.684 96.161,-38.658C96.152,-37.919 96.061,-37.233 95.995,-36.158C95.314,-25.179 74.955,56.76 74.955,56.76C74.955,56.76 73.737,61.555 69.372,61.718C67.78,61.778 65.848,61.455 63.538,59.468C54.973,52.1 25.366,32.203 18.825,27.827C18.456,27.581 18.351,27.26 18.288,26.948C18.196,26.487 18.698,25.914 18.698,25.914C18.698,25.914 70.25,-19.911 71.622,-24.719C71.728,-25.092 71.329,-25.276 70.788,-25.115C67.364,-23.855 8.008,13.626 1.457,17.765C1.074,18.007 0,17.851 0,17.851" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,1,0)"><stop offset="0" style="stop-color:rgb(29,147,210);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(56,176,227);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
